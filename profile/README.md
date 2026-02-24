@@ -44,7 +44,8 @@ To be the *intelligent backbone of modern architecture and building engineering 
 
 ## 📬 Learn More
 
-🌐 [https://thermotect.com/en](https://thermotect.com/en)<br/>
-📩 [info@thermotect.ir](mailto:info@thermotect.ir)
+🌐 [https://thermotect.com](https://thermotect.com)<br/>
+📩 [info@thermotect.ir](mailto:info@thermotect.ir)<br/>
+📩 [contact@thermotect.com](mailto:contact@thermotect.com)
 
 [1]: https://thermotect.com/en "Thermotect"
