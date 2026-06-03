@@ -1,8 +1,8 @@
-# Thermotect
+# Arcito | آریکتو
 
 **Smart Building Engineering Platform | AI-Powered Cloud Solution**
 
-Thermotect is a next-generation building engineering ecosystem that empowers architects, engineers, and construction teams with intelligent tools — all in one unified platform. ([thermotect.com][1])
+Thermotect is a next-generation building engineering ecosystem that empowers architects, engineers, and construction teams with intelligent tools — all in one unified platform. ([arcito.app][1])
 
 ---
 
@@ -44,8 +44,8 @@ To be the *intelligent backbone of modern architecture and building engineering 
 
 ## 📬 Learn More
 
-🌐 [https://thermotect.com](https://thermotect.com)<br/>
-📩 [info@thermotect.ir](mailto:info@thermotect.ir)<br/>
-📩 [contact@thermotect.com](mailto:contact@thermotect.com)
+🌐 [https://thermotect.com](https://arcito.app)<br/>
+📩 [info@thermotect.ir](mailto:info@arcito.app)<br/>
+📩 [contact@thermotect.com](mailto:contact@arcito.app)
 
-[1]: https://thermotect.com/en "Thermotect"
+[1]: https://arcito.app/en "Arcito"
