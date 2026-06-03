@@ -19,7 +19,7 @@ All delivered through a single platform that helps professionals design, validat
 
 ---
 
-## 🔍 What You Can Do With Thermotect
+## 🔍 What You Can Do With Arcito
 
 * Chat with AI for **technical answers, optimization, and guidance**
 * Receive **drawing edits & design improvements**
