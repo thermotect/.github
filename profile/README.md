@@ -44,8 +44,8 @@ To be the *intelligent backbone of modern architecture and building engineering 
 
 ## 📬 Learn More
 
-🌐 [https://thermotect.com](https://arcito.app)<br/>
-📩 [info@thermotect.ir](mailto:info@arcito.app)<br/>
-📩 [contact@thermotect.com](mailto:contact@arcito.app)
+🌐 [https://arcito.app](https://arcito.app)<br/>
+📩 [info@arcito.app](mailto:info@arcito.app)<br/>
+📩 [contact@arcito.app](mailto:contact@arcito.app)
 
 [1]: https://arcito.app/en "Arcito"
